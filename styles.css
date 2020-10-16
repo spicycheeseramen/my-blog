@@ -28,13 +28,35 @@ h6{
 	color:coral;
 	text-align: center
 }
-
-
-
-
-
-
-p{
-	color: saddlebrown;
-	text-align: right
+a{
+	text-decoration: none
 }
+
+
+p{color:saddlebrown;
+text-align: right;
+line-height: 2.8;
+font-family: Times, "Times New Roman", "serif";
+		
+	
+}
+#firstparagraph {color:papayawhip;
+	background-color: rosybrown;
+text-align:left;
+line-height: 3.9;
+font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";}
+
+#secondparagraph {color:lightpink;
+	background-color:dimgrey;
+text-align:left;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";}
+
+.blue {color:chocolate;
+text-align:left;
+	
+}
+.red {color:hotpink;
+text-align:left;
+	
+}
+
